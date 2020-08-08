@@ -1,6 +1,6 @@
 # Velo Hero Help Center
 
-Velo Hero Help Website: <https://help.velohero.com/>
+Velo Hero Help Website: <https://www.velohero.com/help/>
 
 ## Edit
 
