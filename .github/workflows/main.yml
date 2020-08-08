@@ -22,8 +22,6 @@ jobs:
         pip3 install mkdocs-material
     - name: Build docs
       run: $HOME/.local/bin/mkdocs build
-    - name: CNAME
-      run: echo 'help.velohero.com' > "site/CNAME"
     - name: Deploy to gh-pages branch
       uses: s0/git-publish-subdir-action@master
       env:
