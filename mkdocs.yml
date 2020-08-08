@@ -1,0 +1,44 @@
+site_name: Velo Hero Help Center
+nav:
+- 'Help': index.md
+- '🇩🇪 Warum alles in Englisch?': warum-ist-hier-alles-englisch.md
+- 'Features':
+  - 'Activate Pro Membership': activate-pro-membership.md
+  - 'Analysing Power Data': analysing-power-data.md
+  - 'Analysis': analysis.md
+  - 'Body Composition (Fat) Percentage': body-composition-fat-percentage.md
+  - 'Community Functions: Share and Follow': community-functions-share-and-follow.md
+  - 'Comparison to Previous Period': comparison-to-previous-period.md
+  - 'Create Interval': create-interval.md
+  - 'Customize Table Columns': customize-table-columns.md
+  - 'Export': export.md
+  - 'Fullscreen (Map, Chart)': fullscreen.md
+  - 'Garmin Communicator-Plug-In': garmin-communicator-plug-in.md
+  - 'Google Earth Export': google-earth.md
+  - 'Hide Workout': hide-workout.md
+  - 'Import Workout Files by Email': email-import.md
+  - 'Mass Change': mass-change.md
+  - 'Mobile App': mobile-app.md
+  - 'Supported Smartphone Apps': smartphone-apps.md
+  - 'Supported File Types': supported-file-types.md
+  - 'Remove Peaks from your Recording': how-do-i-remove-peaks-from-a-recording.md
+  - 'Synchronization Garmin Connect, TrainingPeaks, Strava': synchronization.md
+  - 'Withings': withings.md
+- 'Frequently Asked Questions': faq.md
+- 'Glossary': glossary.md
+- '🔑 Login': 'https://app.velohero.com/login'
+- '🆕 Sign Up': 'https://app.velohero.com/register'
+- '✉️ Contact': 'https://app.velohero.com/help'
+- '📜 About this site': 'https://app.velohero.com/imprint'
+use_directory_urls: false
+repo_url: https://github.com/velohero/velohero-help
+theme:
+  language: 'en'
+  name: 'material'
+  favicon: 'img/favicon.ico'
+  logo: 'img/logo.png'
+  palette:
+    primary: 'black'
+    accent: 'black'
+markdown_extensions:
+  - admonition
