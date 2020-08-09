@@ -17,6 +17,7 @@ nav:
   - 'Google Earth Export': google-earth.md
   - 'Hide Workout': hide-workout.md
   - 'Import Workout Files by Email': email-import.md
+  - 'Excel Import': excel.md
   - 'Mass Change': mass-change.md
   - 'Mobile App': mobile-app.md
   - 'Supported Smartphone Apps': smartphone-apps.md
