@@ -10,18 +10,16 @@ Goto <https://app.velohero.com/upload/email> and activate your own Velo Hero ema
 
 ## Share your workout
 
-Tap [Share] -> [Email]:
+Tap [⋮] -> [Upload workout]:
 
-![Screenshot](img/70tMNn5.jpg)
+![Screenshot: Wahoo App Upload Screenshot](img/wahoo_app_01.jpg)
+
+Tap [Share file to...]
+
+![Screenshot: Wahoo App Share file to](img/wahoo_app_02.jpg)
 
 ## Send
 
-Send the TCX-file to your Velo Hero email address:
+Send the FIT-file to your Velo Hero email address:
 
-![Screenshot](img/wYh2ouM.jpg)
-
-## Done
-
-After the import, you get a reply:
-
-![Screenshot](img/cL6SF2X.jpg)
+![Screenshot: Wahoo App Email](img/wahoo_app_03.jpg)
