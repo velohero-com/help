@@ -282,6 +282,8 @@ Pease read: <https://help.libreoffice.org/Calc/Importing_and_Exporting_CSV_Files
 
 Specify the options to divide the text in the file into columns only with Semicolon.
 
+![Screenshot: LibreOffice CSV Import](img/LibreOffice_CSV_Import.jpg)
+
 
 ## Why is speed and altitude missing in Garmin Connect Export?
 
