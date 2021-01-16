@@ -306,14 +306,14 @@ Discussion in Garmin forum:
 
 * Windows 95, 98, 2000 and Windows XP: `C:\Program Files\SRM Training System\_DATA.SRM`
 * Windows Vista, Windows 7 and Windows 8: `C:\Users\Public\Documents\SRM\_DATA.SRM`
-* Mac OS X: `Macintosh HD/Users/Shared/SRM/SRMFILES`
+* macOS: `Macintosh HD/Users/Shared/SRM/SRMFILES`
 
 
 ## Where can I find my TCX files from Garmin ANT Agent?
 
 * Windows 2000 and Windows XP: `C:\Documents and Settings\<USERNAME>\Application Data\GARMIN\Devices\<DEVICE-ID>`
 * Windows Vista, Windows 7 and Windows 8: `C:\Users\<USERNAME>\AppData\Roaming\GARMIN\Devices\<DEVICE-ID>`
-* Mac OS X: `Macintosh HD/Users/<USERNAME>/Library/Application Support/Garmin/Devices/<DEVICE-ID>`
+* macOS: `Macintosh HD/Users/<USERNAME>/Library/Application Support/Garmin/Devices/<DEVICE-ID>`
 
 On Windows computers, the Application Data (AppData) folders are hidden by default and you must enable the display of hidden files before you are able to see these elements.
 Please see: <http://windows.microsoft.com/en-us/windows/show-hidden-files#show-hidden-files=windows-7>
@@ -333,21 +333,6 @@ On Windows computers, the ProgramData folder is hidden by default and you must e
 Please see: <http://windows.microsoft.com/en-us/windows/show-hidden-files#show-hidden-files=windows-7>
 
 In each of these folders you'll find your workouts listed as `.FIT` files.
-
-
-## Where can I find my Zwift files?
-
-Your FIT file is automatically saved every 10 minutes in the `\Documents\Zwift\Activities` folder on your computer.
-
-On the Title screen, tap the Zwift logo three times to bring up the file browser.
-
-If you're riding on iOS, you can reach your `.FIT` file by:
-
-* Starting up the Zwift Application.
-* Tapping on the 'Zwift' Logo 3 times.
-* This will open up a browser, allowing you to choose your file (log or .FIT) and then email them to whomever you'd like, yourself included.
-
-Source: <https://support.zwift.com/en_us/can-i-upload-my-.fit-fileactivity-to-a-third-party-site-BkWegRkWSm>
 
 
 ## Why my profile picture (Gravatar) is not displayed?
