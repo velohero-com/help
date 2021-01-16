@@ -44,6 +44,7 @@ The following file formats and devices are supported:
 * Garmin Forerunner 910XT
 * Garmin Fenix
 * SRM PowerControl 8
+* And many more...
 
 
 ## HRM
@@ -80,6 +81,8 @@ The following file formats and devices are supported:
 * Brunton
 * Lowrance
 * RoyalTek
+* And many more...
+
 
 ## PWX
 
@@ -91,6 +94,7 @@ The following file formats and devices are supported:
 * Timex Race Trainer Pro
 * Timex Run Trainer
 * Timex Cycle Trainer
+
 
 ## EMC2 (CSV)
 
