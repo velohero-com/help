@@ -44,6 +44,8 @@ The following file formats and devices are supported:
 * Garmin Forerunner 910XT
 * Garmin Fenix
 * SRM PowerControl 8
+* Wahoo Elemnt
+* Wahoo Elemnt Bolt
 * And many more...
 
 
