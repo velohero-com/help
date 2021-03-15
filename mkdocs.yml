@@ -38,6 +38,8 @@ theme:
   name: 'material'
   favicon: 'img/favicon.ico'
   logo: 'img/logo.png'
+  # Disable Google Fonts
+  font: false
   palette:
     primary: 'black'
     accent: 'black'
