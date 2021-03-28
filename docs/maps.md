@@ -9,7 +9,7 @@ You can temporarily choose a different map style by clicking on the upper right 
 > The world is full of interesting features beyond roads and houses.
 > The landscape layer emphasises natural features and is a perfect display for those interested in nature, the countryside, and life beyond the city.
 
-* 🗺️ Maps: [Thunderforest](https://www.thunderforest.com/)
+* 🗺️ Map: [Thunderforest](https://www.thunderforest.com/)
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: Landscape Map Style](img/maps/landscape.png)
@@ -18,7 +18,7 @@ You can temporarily choose a different map style by clicking on the upper right 
 
 > OpenCycleMap is the award-winning world-wide map for cyclists.
 
-* 🗺️ Maps: [Thunderforest](https://www.thunderforest.com/)
+* 🗺️ Map: [Thunderforest](https://www.thunderforest.com/)
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: OpenCycleMap Map Style](img/maps/opencyclemap.png)
