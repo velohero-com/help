@@ -12,6 +12,7 @@ nav:
   - 'Create Interval': create-interval.md
   - 'Customize Table Columns': customize-table-columns.md
   - 'Export': export.md
+  - 'Maps': maps.md
   - 'Fullscreen (Map, Chart)': fullscreen.md
   - 'Garmin Communicator-Plug-In': garmin-communicator-plug-in.md
   - 'Google Earth Export': google-earth.md
