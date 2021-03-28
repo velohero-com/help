@@ -54,7 +54,7 @@ You can temporarily choose a different map style by clicking on the upper right 
 
 > OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
 
-* 🗺️ Map: [OpenStreetMap](https://www.openstreetmap.org/copyright)
+* 🗺️ Map: [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) hosted by [OpenStreetMap France](https://www.openstreetmap.fr/)
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: OpenStreetMap Map Style](img/maps/openstreetmap.png)
