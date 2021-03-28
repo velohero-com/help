@@ -27,7 +27,7 @@ You can temporarily choose a different map style by clicking on the upper right 
 
 > Aimed at the outdoors enthusiasts, this map style displays hiking routes, ski runs and many useful points of interest.
 
-* 🗺️ Maps: [Thunderforest](https://www.thunderforest.com/)
+* 🗺️ Map: [Thunderforest](https://www.thunderforest.com/)
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: Outdoors Map Style](img/maps/outdoors.png)
@@ -36,7 +36,7 @@ You can temporarily choose a different map style by clicking on the upper right 
 
 > A clear map style for both navigation and local context.
 
-* 🗺️ Maps: [Thunderforest](https://www.thunderforest.com/)
+* 🗺️ Map: [Thunderforest](https://www.thunderforest.com/)
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: Atlas Map Style](img/maps/atlas.png)
@@ -45,7 +45,7 @@ You can temporarily choose a different map style by clicking on the upper right 
 
 > All the worlds neighbourhoods on a clean map style.
 
-* 🗺️ Maps: [Thunderforest](https://www.thunderforest.com/)
+* 🗺️ Map: [Thunderforest](https://www.thunderforest.com/)
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: Neighbourhood Map Style](img/maps/neighbourhood.png)
@@ -54,7 +54,18 @@ You can temporarily choose a different map style by clicking on the upper right 
 
 > OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
 
-* 🗺️ Maps: [OpenStreetMap](https://www.openstreetmap.org/copyright)
+* 🗺️ Map: [OpenStreetMap](https://www.openstreetmap.org/copyright)
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: OpenStreetMap Map Style](img/maps/openstreetmap.png)
+
+## Zwift
+
+In addition to the real world maps mentioned above, Velo Hero also supports Zwift.
+
+The Map of Watopia is automatically displayed when importing [Zwift FIT files](/help/zwift.html).
+
+* 🗺️ Map: [Zwift](https://www.zwift.com/)
+* 🗃️ Data: [Zwift Hacks](https://zwifthacks.com/)
+
+![Screenshot: Zwift Map Style](img/maps/zwift.png)
