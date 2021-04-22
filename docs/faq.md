@@ -301,6 +301,12 @@ Discussion in Garmin forum:
 * <https://forums.garmin.com/showthread.php?234572-evevation-missing-from-gpx-file-exported-from-Connect>
 * <https://forums.garmin.com/showthread.php?229674-Exporting-data-to-tcx-or-gpx-NO-elevation-data>
 
+## Where can I find my Garmin FIT/TCX files?
+
+Connect your Garmin Edge via USB to your computer.
+Your Garmin device shows up as USB drive.
+Open the folder `Garmin\Activities`.
+You will find FIT or TCX-files. Upload this files to [Velo Hero](https//app.velohero.com/upload).
 
 ## Where can I find my SRM files?
 
