@@ -256,7 +256,9 @@ Often there are differences in the structure of the file, so here we differentia
 
 An attempt is made to calculate the  Average Speed using the speed between the records points and time in motion. It is not distance divided by time.
 
-Average Power is calculated with time in motion. You therefore often get higher values than in other analyses. You get with this calculating a value that is similar to a race. Also, you can also better compare workouts with different pauses (traffic signals). Many other programs calculate average power with the duration. 
+Average power is calculated with time in motion. You therefore often get higher values than in other analyses. You get with this calculating a value that is similar to a race. Also, you can also better compare workouts with different pauses (traffic signals). Many other programs calculate average power with the duration.
+
+Average cadence is calculated without zeros.
 
 An extra explanation for the calculation of altitude can be found below.
 
