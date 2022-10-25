@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout master
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Install packages
       run: |
         sudo apt-get update
@@ -23,10 +23,9 @@ jobs:
         pip3 install mkdocs-minify-plugin
     - name: Build docs
       run: $HOME/.local/bin/mkdocs build
-    - name: Deploy to gh-pages branch
-      uses: s0/git-publish-subdir-action@master
-      env:
-        REPO: self
-        BRANCH: gh-pages
-        FOLDER: site
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # https://github.com/marketplace/actions/deploy-to-github-pages
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: gh-pages
+        folder: site
