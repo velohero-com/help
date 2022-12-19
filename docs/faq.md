@@ -61,14 +61,14 @@ If you're doing longer breaks finish the recording and start a new recording lat
 So you may see later that you have not done the distance straight.
 Disable on Garmin Fitness devices the "Auto Pause".
 
-» [See my settings from my Garmin Edge cycling computer](https://twitter.com/realCyclenerd/status/1420387338316881931)
+![Image: My Garmin Settings](img/garmin-settings.png)
 
 SRM Power Control users:  Hold PRO and SET simultaneously to start a new training file before you actually start your workout.
 You should really be ready to start and your Power Control should already be on your handlebars.
 After your workout press MODE longer than 10 seconds to manually enter Sleep Mode and deactivate the integrated motion sensor.
 Then download the training file with the SRM software.
 
-» [See my settings from my SRM PowerControl 8 (PC8) cycling computer](https://twitter.com/realCyclenerd/status/1420390691675508739)
+![Image: My SRM Settings](img/srm-settings.png)
 
 GPS and Smartphone users (Locus, Orux, ...):
 Set the GPS accuracy to at least 20 meters.
