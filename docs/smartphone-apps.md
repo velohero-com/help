@@ -15,10 +15,11 @@ The following apps have direct access to Velo Hero:
 * [OruxMaps](https://www.oruxmaps.com/cs/en/)
 * [BikeComputer](http://bikecomputer.roproducts.de/)
 * [ergoDroid](http://ergo.ub-online.de/index.php/de/konfiguration/konfig-trainingstagebuch) (daum ergo_bike)
+* [Cartograph Maps](https://play.google.com/store/apps/details?id=eu.cartograph3)
 
 ### iOS
 
-* None :-(
+* [Cartograph Maps](https://apps.apple.com/us/app/cartograph-maps-3/id1588186796)
 
 ## Email Upload
 
