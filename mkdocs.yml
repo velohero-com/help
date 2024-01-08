@@ -49,5 +49,3 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
-  - minify:
-      minify_html: true

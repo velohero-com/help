@@ -1,5 +1,8 @@
 # Synchronization with Garmin Connect, TrainingPeaks, Strava
 
+!!! warning "Pro Member"
+    Exclusive function for Pro members! You must be a Pro member to upload training files.
+
 Settings: <https://app.velohero.com/settings/connect>
 
 ## Tapiriik

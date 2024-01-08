@@ -1,5 +1,8 @@
 # Supported Smartphone Apps
 
+!!! warning "Pro Member"
+    Exclusive function for Pro members! You must be a Pro member to upload training files.
+
 You can use any app with a supported export format (GPX, FIT, TCX, PWX...).
 
 Using the e-mail import (<https://app.velohero.com/upload/email>) you can upload your training data directly from your smartphone.

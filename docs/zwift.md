@@ -1,5 +1,8 @@
 # Zwift
 
+!!! warning "Pro Member"
+    Exclusive function for Pro members! You must be a Pro member to upload training files.
+
 I use Zwift myself. Velo Hero is therefore compatible with Zwift.
 
 If you import an original Zwift activity recording (FIT file) from Zwift, Watopia will be shown as a map.

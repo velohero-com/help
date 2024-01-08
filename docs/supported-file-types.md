@@ -1,5 +1,8 @@
 # Supported Workout Files and Devices
 
+!!! warning "Pro Member"
+    Exclusive function for Pro members! You must be a Pro member to upload training files.
+
 The following file formats and devices are supported:
 
 ## SRM

@@ -5,6 +5,9 @@
 
     *-- Nils Knieling, Founder of Velo Hero*
 
+!!! info "Update 2024"
+     Import of training files is only supported with an active [Pro membership](https://app.velohero.com/pro).
+
 ## Navigation
 
 ![Screenshot Dashboard](img/Dashboard-Velo-Hero.jpg)

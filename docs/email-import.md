@@ -1,5 +1,8 @@
 # Import Workout Files by Email
 
+!!! warning "Pro Member"
+    Exclusive function for Pro members! You must be a Pro member to upload training files.
+
 As an example the "Wahoo Fitness" app is used. With other apps it works similarly.
 
 ## Get your own email address
