@@ -21,12 +21,20 @@ In order to make it a little easier, there is an automatic threshold detection. 
 
 Workouts with more than 20 minutes power are considered for the calculation.
 
+If a higher FTP is detected, a message is displayed and you can save the new value:
+
+![Screenshot: New FTP](img/ftp-calc.jpeg)
+
+If no higher FTP was detected, no message is displayed.
+
+If you want to analyze your maximum power over several workouts, we recommend the "Mean Max Power" analysis (<https://app.velohero.com/charts>). This will also show you your best 20 minutes per workout.
+
+![Screenshot: Select Mean Max Power](img/select-mean-max-power.jpeg)
+
 ### Links
 
-* YouTube: [How To Calculate Your FTP (Functional Threshold Power)
-](https://www.youtube.com/watch?v=kfJnHsKsUSM)
-* YouTube: [What is FTP or Functional Threshold Power
-](https://www.youtube.com/watch?v=_PvNyP0TekE)
+* YouTube: [How To Calculate Your FTP (Functional Threshold Power)](https://www.youtube.com/watch?v=kfJnHsKsUSM)
+* YouTube: [What is FTP or Functional Threshold Power](https://www.youtube.com/watch?v=_PvNyP0TekE)
 
 
 ## Smoothed Power
