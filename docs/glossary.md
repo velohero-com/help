@@ -3,11 +3,15 @@
 
 ## Functional Threshold Power (FTP)
 
-Your Functional Threshold Power (FTP) is the maximum average power that you can hold for one continuous hour. There is no formal model or protocol for establishing it, most people use rules of thumb like FTP is 95% of 20 minute power, or they use the best power from a 40km TT. For example, if you were to ride a 40k time trial in 60 minutes at an average power of 270W, your FTP would be 270W.
+Your Functional Threshold Power (FTP) is the maximum average power that you can hold for one continuous hour.
 
-```
+There is no formal model or protocol for establishing it, most people use rules of thumb like FTP is 95% of 20 minute power, or they use the best power from a 40km TT.
+
+```text
 FTP = 20 min. peak power * 0.95
 ```
+
+For example, if you were to ride a 40k time trial in 60 minutes at an average power of 270W, your FTP would be 270W.
 
 FTP is the keystone to training with power. It allows Velo Hero to determine how hard a ride is for you. You doing 280W might feel much different than someone less trained doing 280W and FTP allows us to gauge just how hard segments, rides, and even weeks or months of training were for you!
 
@@ -27,7 +31,7 @@ If a higher FTP is detected, a message is displayed and you can save the new val
 
 If no higher FTP was detected, no message is displayed.
 
-If you want to analyze your maximum power over several workouts, we recommend the "Mean Max Power" analysis (<https://app.velohero.com/charts>). This will also show you your best 20 minutes per workout.
+If you want to analyze your maximum power over several workouts, we recommend the "Mean Max Power" analysis (<https://app.velohero.com/charts>). This will also show you your best 20 minutes and 60 minutes per workout.
 
 ![Screenshot: Select Mean Max Power](img/select-mean-max-power.jpeg)
 
