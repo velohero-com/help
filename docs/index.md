@@ -5,8 +5,8 @@
 
     *-- Nils Knieling, Founder of Velo Hero*
 
-!!! info "Update 2024"
-     Import of training files is only supported with an active [Pro membership](https://app.velohero.com/pro).
+!!! danger "Zwift Feb 2025"
+     FIT file import directly from Zwift interrupted. Click [here](./zwift.md) for more details.
 
 ## Navigation
 

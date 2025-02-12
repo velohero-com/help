@@ -2,13 +2,28 @@
 
 Velo Hero Help Website: <https://www.velohero.com/help/>
 
-## Edit
+## Python
 
-* Fork and clone this repository
-* Download the latest version of [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-    * `sudo apt install python3-pip`
-    * `pip3 install mkdocs`
-    * `mkdocs --version`
-    * `pip3 install mkdocs-material`
-* Navigate into the cloned repo and run `mkdocs serve`
-* On a web browser, navigate to `http://127.0.0.1:8000/`
+Follow the [official guide](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) so that you have a working virtual environment and `pip3` installed.
+
+Once you have created and activated a virtual environment, install the dependencies we use for testing and tools.
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip3 install -r requirements.txt
+```
+
+## Serve
+
+Create a current version for yourself:
+
+```bash
+mkdocs serve
+```
+
+Open notes:
+
+```bash
+open "http://127.0.0.1:8000/"
+```

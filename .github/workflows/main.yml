@@ -11,18 +11,10 @@ jobs:
     steps:
     - name: Checkout master
       uses: actions/checkout@v3
-    - name: Install packages
-      run: |
-        sudo apt-get update
-        sudo apt-get install rsync python3-pip -y
     - name: Install MkDocs
-      run: |
-        pip3 install --upgrade setuptools
-        pip3 install mkdocs
-        pip3 install mkdocs-material
-        pip3 install mkdocs-minify-plugin
+      run: pip3 install -r requirements.txt
     - name: Build docs
-      run: $HOME/.local/bin/mkdocs build
+      run: mkdocs build
     # https://github.com/marketplace/actions/deploy-to-github-pages
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4

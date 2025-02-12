@@ -1,41 +1,27 @@
-# Zwift
+# Importing Zwift Activities
 
-!!! warning "Pro Member"
-    Exclusive function for Pro members! You must be a Pro member to upload training files.
+Direct FIT file imports from Zwift are currently unavailable.
+Zwift changed their file format in February 2025, making direct import into Velo Hero impossible.
+I am unsure when, or if, direct import functionality will be restored.
 
-I use Zwift myself. Velo Hero is therefore compatible with Zwift.
+**Workaround:**
+To import your Zwift training logs into Velo Hero, you'll need to use an intermediary platform.
+You can either use Garmin Connect or the free, open-source software [GoldenCheetah](https://www.goldencheetah.org/).
 
-If you import an original Zwift activity recording (FIT file) from Zwift, Watopia will be shown as a map.
+Tip: GoldenCheetah also offers a direct synchronization feature with Velo Hero. Explore this option for a streamlined workflow.
 
-![Screenshot Zwift Map](img/zwift_map.jpg)
+## Using GoldenCheetah (Recommended)
 
-Important: It must be the original FIT file. Exports from third party providers do not work.
+[GoldenCheetah](https://www.goldencheetah.org/) is a powerful, free tool available for Windows, macOS, and Linux.
+Here's how to use it to import your Zwift activities:
 
-## Where can I find my Zwift FIT files?
+1. Import: Import your Zwift recording into GoldenCheetah.
+1. Export: Export the activity from GoldenCheetah. Choose the Garmin FIT format. (See screenshots below)
+1. Import to Velo Hero: Import the newly exported FIT file into Velo Hero.
 
-Zwift stored your activity data with the Flexible and Interoperable Data Transfer (FIT) protocol.
-FIT is designed specifically for the storing and sharing of data that originates from sport.
+Screenshots:
 
-### Zwift Website (Dashboard)
+![Screenshot: GoldenCheetah Export](./img/gc-export.png)
 
-To manually upload a Zwift ride that you successfully completed to Velo Hero,
-you can download the .FIT file from your [ACTIVITY FEED](https://www.zwift.com/feed).
+![Screenshot: GoldenCheetah Export](./img/gc-export-fit.png)
 
-![Screenshot: Zwift Dashboard FIT Download](img/zwift_fit_file_download.jpg)
-
-### Windows and macOS
-
-Your .FIT file is automatically saved every 10 minutes in the `\Documents\Zwift\Activities` folder on your computer.
-
-* Windows: `C:\Users\<YOUR-USERNAME>\Documents\Zwift\Activities`
-* macOS: `Macintosh HD/Users/<YOUR-USERNAME>/Documents/Zwift/Activities`
-
-### iOS
-
-If you're riding on iOS, here’s how to reach your .FIT file:
-
-* Starting up the Zwift Application.
-* Tapping on the 'Zwift' Logo 3 times.
-* This will open up a browser, allowing you to choose your file (log or .FIT) and then email them to whomever you'd like, yourself included.
-
-Source: <https://www.zwift.com/news/4617-zwift-how-to-accessing-your-ride-data-from-anywhere>

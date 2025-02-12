@@ -100,7 +100,7 @@ For some file types, the totals and averages are taken from the file and are not
 ### FIT
 
 * File Type: `.FIT`
-* Vendors: Garmin, SRM, SIGMA, Zwift, many more
+* Vendors: Garmin, SRM, SIGMA, many more
 * Distance: Read
 * Ascent: Calculated
 * Average Speed: Calculated
@@ -149,18 +149,6 @@ Often there are differences in the structure of the file, so here we differentia
 * Average Cadence: Read
 * Average Power: Read
 * Calories: Read
-
-#### FALK
-
-* File Type: `.FIT`
-* Vendors: Garmin, SRM, SIGMA, Zwift, many more
-* Distance: Read
-* Ascent: Calculated
-* Average Speed: Read
-* Average Heart Rate: Read
-* Average Cadence: Read
-* Average Power: -
-* Calories: -
 
 ### HRM
 

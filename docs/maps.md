@@ -58,14 +58,3 @@ You can temporarily choose a different map style by clicking on the upper right 
 * 🗃️ Data: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 ![Screenshot: OpenStreetMap Map Style](img/maps/openstreetmap.png)
-
-## Zwift
-
-In addition to the real world maps mentioned above, Velo Hero also supports Zwift.
-
-The Map of Watopia is automatically displayed when importing [Zwift FIT files](/help/zwift.html).
-
-* 🗺️ Map: [Zwift](https://www.zwift.com/)
-* 🗃️ Data: [Zwift Hacks](https://zwifthacks.com/)
-
-![Screenshot: Zwift Map Style](img/maps/zwift.png)
