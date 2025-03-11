@@ -29,10 +29,7 @@ nav:
   - 'Zwift': zwift.md
 - 'Frequently Asked Questions': faq.md
 - 'Glossary': glossary.md
-- '🔑 Login': 'https://app.velohero.com/login'
-- '🆕 Sign Up': 'https://app.velohero.com/register'
-- '✉️ Contact': 'https://app.velohero.com/help'
-- '📜 About this site': 'https://app.velohero.com/imprint'
+- 'Imprint': 'https://app.velohero.com/imprint'
 use_directory_urls: false
 theme:
   language: 'en'
