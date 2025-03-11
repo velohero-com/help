@@ -1,15 +1,21 @@
-# Export (PWX, TCX, GPX, iCalendar, RSS...)
+# Data Export Options (PWX, TCX, GPX, iCalendar, RSS...)
 
-Using the export, you have full control over your data and content.
+Take control of your data with our comprehensive export features.
 
-## Workout (Activity)
+## Workout (Activity) Exports
 
-Export workout (activity) as PWX, TCX, CSV, KML or GPX file.
+Export individual workouts (activities) in various formats: PWX, TCX, CSV, KML, or GPX.
 
 ![Screenshot](img/Workout-Export-Velo-Hero.jpg)
 
-## Sums (Month)
+**Enhanced Export with `veloherodown`**
 
-Export of sums:
+Simplify your workout exports using the open-source command-line tool, `veloherodown`. This tool allows you to easily download your recorded activities from Velo Hero and is compatible with Windows, macOS, and Linux.
+
+Get more information and download `veloherodown` from its GitHub page: <https://github.com/Cyclenerd/veloherodown>
+
+## Monthly Summary Exports
+
+Export monthly summaries of your activity data.
 
 ![Screenshot](img/Export-All-Velo-Hero.jpg)
